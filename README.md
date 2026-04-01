@@ -1,17 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Siahi</h1>
-<h3 align="center">A passionate frontend developer from Germany</h3>
-
-- 🔭 I’m currently working on [airbnb clone](https://github.com/alisiahi/airbnb-clone)
-
-- 🌱 I’m currently learning **Supabase**
-
-- 👨‍💻 All of my projects are available at [alisiahi.ir](https://www.alisiahi.ir/)
-
-- 💬 Ask me about **React, Nextjs**
-
-- 📫 How to reach me **alisiahi.1991@gmail.com**
-
-- 📄 Know about my experiences [alisiahi.ir](https://www.alisiahi.ir/)
+<h3 align="center">A passionate web developer from Germany</h3>
 
 
 <h3 align="left">Connect with me:</h3>
